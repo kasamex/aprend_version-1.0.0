@@ -1,0 +1,247 @@
+[13-Jul-2021 17:02:54 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:02:54 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:02:54 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:02:54 America/Fortaleza] PHP Warning:  include_once(include/config.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 21
+[13-Jul-2021 17:02:54 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 21
+[13-Jul-2021 17:02:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/apre8363/public_html/r/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/apre8363/public_html/r/index.php on line 31
+[13-Jul-2021 17:03:04 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:03:04 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:03:04 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:03:04 America/Fortaleza] PHP Warning:  include_once(include/config.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 21
+[13-Jul-2021 17:03:04 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 21
+[13-Jul-2021 17:03:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/apre8363/public_html/r/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/apre8363/public_html/r/index.php on line 31
+[13-Jul-2021 17:05:43 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:05:43 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:05:43 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:05:43 America/Fortaleza] PHP Warning:  include_once(include/config.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 37
+[13-Jul-2021 17:05:43 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 37
+[13-Jul-2021 17:06:02 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:02 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:02 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:02 America/Fortaleza] PHP Warning:  include_once(include/config.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 37
+[13-Jul-2021 17:06:02 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 37
+[13-Jul-2021 17:06:05 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:05 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:05 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:05 America/Fortaleza] PHP Warning:  include_once(include/config.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 37
+[13-Jul-2021 17:06:05 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 37
+[13-Jul-2021 17:06:07 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:07 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:16 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:16 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:16 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:06:16 America/Fortaleza] PHP Warning:  include_once(include/config.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 37
+[13-Jul-2021 17:06:16 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'include/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 37
+[13-Jul-2021 17:08:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:08:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:08:29 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:08:53 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=' in /home3/apre8363/public_html/r/index.php on line 9
+[13-Jul-2021 17:08:57 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=' in /home3/apre8363/public_html/r/index.php on line 9
+[13-Jul-2021 17:09:07 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=' in /home3/apre8363/public_html/r/index.php on line 9
+[13-Jul-2021 17:13:11 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=' in /home3/apre8363/public_html/r/index.php on line 9
+[13-Jul-2021 17:13:30 America/Fortaleza] PHP Parse error:  syntax error, unexpected '=' in /home3/apre8363/public_html/r/index.php on line 9
+[13-Jul-2021 17:13:59 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:13:59 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:13:59 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:12 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:12 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:12 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:16 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:16 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:16 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:37 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:37 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:37 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:48 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:48 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:14:48 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:15:24 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:15:24 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:15:24 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:16:03 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:16:03 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:16:03 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:16:22 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:16:22 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:16:22 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:17:09 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:17:09 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:17:09 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:23 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:23 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:23 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:31 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:31 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:31 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:41 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:41 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 17:25:41 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 18:56:03 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 18:56:03 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 18:56:03 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 19:03:36 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 19:03:36 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 19:03:36 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 19:16:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 19:16:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[13-Jul-2021 19:16:29 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:49:03 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:49:03 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:49:03 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:52:30 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:52:30 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:52:30 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:53:00 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:53:00 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 13:53:00 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:03:54 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:03:54 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:03:54 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:04:03 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:04:03 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:04:03 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:05:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:05:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:05:29 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:05:39 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:05:39 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:05:39 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:06:24 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:06:24 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:06:24 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:07:16 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:07:16 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:07:16 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:09:11 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:09:11 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 14:09:11 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:04:49 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:04:49 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:04:49 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:09:16 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:09:16 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:09:16 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:09:26 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:09:26 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:09:26 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:58:50 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:58:50 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 17:58:50 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 18:54:36 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 18:54:36 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 18:54:36 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 18:55:01 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 18:55:01 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 18:55:01 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:05:21 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:05:21 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:05:21 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:06:00 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:06:00 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:06:00 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:08:01 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:08:01 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:08:01 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:08:28 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:08:28 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:08:28 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:11:22 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:11:22 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[14-Jul-2021 19:11:22 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 14:49:49 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 14:49:49 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 14:49:49 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:02:57 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:02:57 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:02:57 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:04:33 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:04:33 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:04:33 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:12:44 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:12:44 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:12:44 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:13:15 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:13:15 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:13:15 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:13:37 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:13:37 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:13:37 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:14:09 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:14:09 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:14:09 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:15:19 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:15:19 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:15:19 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:22:04 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:22:04 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[16-Jul-2021 16:22:04 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[18-Jul-2021 11:16:53 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[18-Jul-2021 11:16:53 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[18-Jul-2021 11:16:53 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:50:31 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:50:31 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:50:31 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:51:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:51:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:51:29 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:53:22 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:53:22 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:53:22 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:53:41 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:53:41 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:53:41 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:59:22 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:59:22 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 12:59:22 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 17:08:00 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 17:08:00 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[19-Jul-2021 17:08:00 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[26-Jul-2021 17:20:24 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[26-Jul-2021 17:20:24 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[26-Jul-2021 17:20:24 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[27-Jul-2021 16:33:02 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[27-Jul-2021 16:33:02 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[27-Jul-2021 16:33:02 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[27-Jul-2021 16:55:07 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[27-Jul-2021 16:55:07 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[27-Jul-2021 16:55:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:09:43 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:09:43 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:09:43 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:10:38 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:10:38 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:10:38 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:15:56 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:15:56 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[30-Jul-2021 22:15:56 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[31-Jul-2021 15:09:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[31-Jul-2021 15:09:29 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[31-Jul-2021 15:09:29 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 07:56:26 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 07:56:26 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 07:56:26 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 07:58:48 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 07:58:48 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 07:58:48 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 09:22:40 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 09:22:40 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 09:22:40 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 09:22:47 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 09:22:47 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 09:22:47 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 10:33:49 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 10:33:49 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 10:33:49 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 10:42:07 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 10:42:07 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 10:42:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 13:50:59 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 13:50:59 America/Fortaleza] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home3/apre8363/public_html/r/index.php on line 5
+[02-Aug-2021 13:50:59 America/Fortaleza] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/apre8363/public_html/r/index.php on line 5
